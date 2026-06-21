@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://lcn-tv.com/sitemap.xml
-
-# Disallow admin paths
-Disallow: /admin/
